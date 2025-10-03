@@ -7,6 +7,6 @@
     "repository": "TheMuppets/proprietary_vendor_oneplus_hotdogb",
     "target_path": "vendor/oneplus/hotdogb",
     "remote": "github-non-los",
-    "branch": "lineage-22.1"
+    "branch": "lineage-23.2"
   }
 ]
